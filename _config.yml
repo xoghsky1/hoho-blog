@@ -21,7 +21,7 @@ tagline: 기록과 정리
 description: >-
   GitHub Pages + Chirpy 테마 블로그
 
-# GitHub Pages — 프로젝트 사이트(USERNAME/hoho-blog): url + baseurl = /저장소이름
+# baseurl은 GitHub 저장소 이름과 동일해야 함 (하이픈/밑줄 구분)
 url: "https://xoghsky1.github.io"
 
 github:
@@ -145,7 +145,7 @@ pwa:
 
 paginate: 10
 
-# 저장소 이름 hoho-blog → 사이트 경로 접두사
+# 저장소 xoghsky1/hoho-blog → https://xoghsky1.github.io/hoho-blog/
 baseurl: "/hoho-blog"
 
 # ------------ The following options are not recommended to be modified ------------------

@@ -1,0 +1,17 @@
+---
+description: Job-search blog post tone for posts
+globs: _posts/**/*.md
+alwaysApply: false
+---
+
+# Blog Post Tone
+
+- Write blog posts in a calm, polished tone suitable for job-search portfolios.
+- Default style: combine a restrained retrospective voice with practical work insight.
+- Emphasize what problem was observed, how it was approached, what was learned, and what direction comes next.
+- Keep first-person narration, but avoid diary-like emotional overflow.
+- Prefer clear, complete sentences over slang or stream-of-consciousness phrasing.
+- Show execution and judgment, not just feelings or excitement.
+- Avoid exaggerated self-promotion, but do not hide concrete contributions.
+- When describing AI or automation work, connect tools to product value, team impact, and operational limits.
+- If editing a rough draft, preserve the author's intent while improving structure, readability, and credibility.

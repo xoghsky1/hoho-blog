@@ -14,4 +14,7 @@ alwaysApply: false
 - Show execution and judgment, not just feelings or excitement.
 - Avoid exaggerated self-promotion, but do not hide concrete contributions.
 - When describing AI or automation work, connect tools to product value, team impact, and operational limits.
+- Use short section headings when they improve scanability and make the narrative easier to follow.
+- Add a simple diagram only when it clarifies process, structure, or impact faster than prose.
+- Prefer Mermaid for diagrams, and keep them functional rather than decorative.
 - If editing a rough draft, preserve the author's intent while improving structure, readability, and credibility.

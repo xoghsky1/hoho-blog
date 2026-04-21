@@ -1,6 +1,6 @@
 ---
 title: 나는 PM일까, PO일까 — 역할 정체성에 대한 고민
-date: 2026-04-21 20:00:00 +0900
+date: 2026-04-21 00:00:00 +0900
 categories: [Career, Retrospective]
 tags: [pm, product-manager, project-manager, product-owner, 서비스기획]
 ---
